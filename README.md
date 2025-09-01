@@ -42,13 +42,17 @@ qa_challenge/
 ├── requirements.txt
 └── README.md
 
+---
 About the Author 💡
 
 İrem Uğuztemur – QA Engineer & Automation Enthusiast
 
 Loves problem-solving, automation challenges, and efficient test design
 
+---
+
 🦄 QA Spirit 🚀
 
 “Breaking code so your users never do.”
 Precision, automation, and a bit of Python magic ✨
+---
