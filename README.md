@@ -23,11 +23,15 @@ cd irem_uguztemur_case
 python -m venv .venv
 pip install -r requirements.txt
 
+```
+## Usage ▶️
+```bash
 
-Usage ▶️
 pytest tests/test_career_journey.py
-
-
+```
+---
+Structure 🏗️
+```bash
 Structure 🏗️
 qa_challenge/
 ├── pages/
@@ -41,17 +45,17 @@ qa_challenge/
 │   └── test_career_journey.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
-About the Author 💡
+## About the Author 💡
 
 İrem Uğuztemur – QA Engineer & Automation Enthusiast
 
-Loves problem-solving, automation challenges, and efficient test design
+- Loves problem-solving, automation challenges, and efficient test design
 
 ---
 
-🦄 QA Spirit 🚀
+## 🦄 QA Spirit 🚀
 
 “Breaking code so your users never do.”
 Precision, automation, and a bit of Python magic ✨
